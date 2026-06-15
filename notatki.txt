@@ -1,0 +1,3 @@
+Usunięcie dodanych plików do staging area (po git add, ale przed git commit)
+git restore --staged <nazwa pliku/folderu/.> -> gdy już był robiony jakikolwiek commit wcześniej
+git reset head -> gdy nie było robionego jeszcze żadnego commita
